@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "git": {
+    "github": "https://github.com",
+    "gitlab": "https://gitlab.com",
+    "gitee": "https://gitee.com"
+  },
+  "name": {
+    "github": "guangl"
+  }
+}
